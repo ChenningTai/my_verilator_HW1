@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-cc count__repeat__.v"
+S   5378744     6009  1568819693   366029910  1568819693   362029910 "/usr/local/bin/verilator_bin"
+S       258    33241  1569599435   263143006  1569599435   215143005 "count__repeat__.v"
+T      6715    33247  1569599437   755143035  1569599437   755143035 "obj_dir/Vcount__repeat__.cpp"
+T      2541    33246  1569599437   755143035  1569599437   755143035 "obj_dir/Vcount__repeat__.h"
+T      1483    50899  1569599437   755143035  1569599437   755143035 "obj_dir/Vcount__repeat__.mk"
+T       577    33244  1569599437   755143035  1569599437   755143035 "obj_dir/Vcount__repeat____Syms.cpp"
+T       824    33245  1569599437   755143035  1569599437   755143035 "obj_dir/Vcount__repeat____Syms.h"
+T       300    50901  1569599437   755143035  1569599437   755143035 "obj_dir/Vcount__repeat____ver.d"
+T         0        0  1569599437   755143035  1569599437   755143035 "obj_dir/Vcount__repeat____verFiles.dat"
+T      1272    33248  1569599437   755143035  1569599437   755143035 "obj_dir/Vcount__repeat___classes.mk"

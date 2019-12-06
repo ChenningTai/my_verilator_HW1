@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-cc even_parity_generator__while__.v"
+S   5378744     6009  1568819693   366029910  1568819693   362029910 "/usr/local/bin/verilator_bin"
+S       185    33242  1569597849    95124468  1569597849    55124467 "even_parity_generator__while__.v"
+T      6247    33246  1569597850   931124489  1569597850   931124489 "obj_dir/Veven_parity_generator__while__.cpp"
+T      2760    33245  1569597850   931124489  1569597850   931124489 "obj_dir/Veven_parity_generator__while__.h"
+T      1558    33248  1569597850   931124489  1569597850   931124489 "obj_dir/Veven_parity_generator__while__.mk"
+T       652    33243  1569597850   931124489  1569597850   931124489 "obj_dir/Veven_parity_generator__while____Syms.cpp"
+T       931    33244  1569597850   931124489  1569597850   931124489 "obj_dir/Veven_parity_generator__while____Syms.h"
+T       420    50899  1569597850   931124489  1569597850   931124489 "obj_dir/Veven_parity_generator__while____ver.d"
+T         0        0  1569597850   931124489  1569597850   931124489 "obj_dir/Veven_parity_generator__while____verFiles.dat"
+T      1317    33247  1569597850   931124489  1569597850   931124489 "obj_dir/Veven_parity_generator__while___classes.mk"
